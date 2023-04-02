@@ -1,3 +1,13 @@
+# VS Code
+.vscode/
+.cache/
+build
+
+# Idea 
+.idea/
+cmake-build-*
+
+# CMake
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
